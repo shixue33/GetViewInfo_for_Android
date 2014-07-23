@@ -89,7 +89,7 @@ python getinfoviewer.py
 
 ### 载入本地信息
 
-![载入本地信息](imgs/preview.png "载入本地信息")
+![载入本地信息](imgs/localimport.png "载入本地信息")
 
 ps:如果在测试脚本中使用
 
