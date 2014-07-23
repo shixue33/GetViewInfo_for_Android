@@ -69,12 +69,15 @@ public class GetInfoTest extends ActivityInstrumentationTestCase2 {
 **执行该方法，因为loopGetInfo()中使用了while(true)循环，所有不手动中止测试，会一直运行（最简便的是直接退出被测应用）
 你需要做的是，在每个你需要的界面停留至少5s**
 
-### Windows用户和Mac用户直接运行
+### Mac用户
 
-在项目的bin目录下有打包完成的可执行程序文件
-支持windows和mac
+使用bin目录下的dmg进行安装
 
-### linux用户
+# Windows用户
+
+使用bin目录下的exe直接运行
+
+### Linux用户
 
 安装pyqt环境
 
