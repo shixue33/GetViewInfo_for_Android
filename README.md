@@ -29,4 +29,7 @@
 #### robotium地址
 [http://www.robotium.cn/download](http://www.robotium.cn/download "robotium地址")
 
-请保证该处打钩：
+**请保证该处打钩：**
+
+![提示](imgs/step1.png "提示")
+
